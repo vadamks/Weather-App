@@ -1,13 +1,3 @@
-#Using API Key
-# Get an API key from OpenWeather API for "Current weather and forecast" - free plan
-# Add it as a string " " to the api_key variable
-
-#I am using the API to get current weather data for a user's location
-#However, focus is on condition and temperature - not all API data
-
-#You will need to use pip package manager to install the requests module
-#The requests module is used to get data from an API
-
 import requests
 
 # Retrieving and formatting date
